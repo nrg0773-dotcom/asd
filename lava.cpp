@@ -1,10 +1,1 @@
-123
-2321
-213
-213
-123
-123
-23123
-
-12312
-312
+sorry sorry i ment the number s be 1 2 3 4 5 
