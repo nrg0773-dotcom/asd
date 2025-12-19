@@ -1,5 +1,10 @@
-#include<iostream>
-using namespace std;
-int main(){
-    cout << "sdccccccdasdmmmmmmmmmmmmmmmmmmmmmsdasdwowow";
-}
+123
+2321
+213
+213
+123
+123
+23123
+
+12312
+312
